@@ -3,9 +3,14 @@
 This project implements the Gale–Shapley algorithm to solve the Stable Marriage Problem. It computes a stable matching between two equally sized sets of participants based on their preference lists, ensuring that no unmatched pair would prefer each other over their assigned partners.
 
 ## References
+David Gale & Lloyd S. Shapley (1962)
+Title: College Admissions and the Stability of Marriage
+Pages: 9–15
+Year: 1962
 
--gale-Shapley paper
--Gusfield's paper
+Dan Gusfield & Robert W. Irving (1989)
+Title: The Stable Marriage Problem: Structure and Algorithms
+Year: 1989
 
 ## Features
 
